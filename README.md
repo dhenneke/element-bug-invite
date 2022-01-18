@@ -8,3 +8,5 @@ It will only show events that are received while the widget is open.
 1. `/addwidget https://dhenneke-element-bug-invite.netlify.app/`
 2. Open the widget.
 3. Receive an invitation in the background.
+
+> See also https://github.com/vector-im/element-web/issues/20622
